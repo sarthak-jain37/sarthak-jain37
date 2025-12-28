@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Sarthak Jain
-- 👀 I’m an aspiring Software Developer and Game Developer.
-- 💞️ I’m looking to collaborate on beginner game development projects.
-- 📫 How to reach me- You can reach me at my LinkedIn profile: www.linkedin.com/in/sarthak-jain-1a625b286
+Hi, I’m Sarthak Jain 👋
+
+I’m a Computer Science undergraduate interested in building logic-heavy systems,
+with a focus on algorithmic problem solving, backend-oriented development,
+and game systems.
+
+I’m open to collaborating on software or game development projects that value
+clean system design and problem solving.
+
+LinkedIn:
+www.linkedin.com/in/sarthak-jain-1a625b286
+
 
 <!---
 sarthak-jain37/sarthak-jain37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
